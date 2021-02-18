@@ -1,0 +1,3 @@
+#!/usr/sbin/node
+
+console.log("hello, world!");
